@@ -15,6 +15,3 @@ TO DO LIST
 1. Write app in python to understand the process
 2. try to translate it to Xcode
 
-
-
-
